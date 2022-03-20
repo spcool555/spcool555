@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shubham kohad
-- 👀 I’m interested in ...website devolopment
-- 🌱 I’m currently learning ...fullstack devolopment
+- 👀 I’m interested in ...JAVA devolopment
+- 🌱 I’m currently learning ...JAVA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...spcool555@gmail.com (whatsaap 8975570451)
 
